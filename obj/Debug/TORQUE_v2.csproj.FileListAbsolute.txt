@@ -1,0 +1,10 @@
+C:\Users\bbayrakli\Desktop\CSharp\TORQUE\TORQUE_v2\bin\Debug\TORQUE_v2.exe.config
+C:\Users\bbayrakli\Desktop\CSharp\TORQUE\TORQUE_v2\bin\Debug\TORQUE_v2.exe
+C:\Users\bbayrakli\Desktop\CSharp\TORQUE\TORQUE_v2\bin\Debug\TORQUE_v2.pdb
+C:\Users\bbayrakli\Desktop\CSharp\TORQUE\TORQUE_v2\obj\Debug\TORQUE_v2.csprojAssemblyReference.cache
+C:\Users\bbayrakli\Desktop\CSharp\TORQUE\TORQUE_v2\obj\Debug\TORQUE_v2.Form1.resources
+C:\Users\bbayrakli\Desktop\CSharp\TORQUE\TORQUE_v2\obj\Debug\TORQUE_v2.Properties.Resources.resources
+C:\Users\bbayrakli\Desktop\CSharp\TORQUE\TORQUE_v2\obj\Debug\TORQUE_v2.csproj.GenerateResource.cache
+C:\Users\bbayrakli\Desktop\CSharp\TORQUE\TORQUE_v2\obj\Debug\TORQUE_v2.csproj.CoreCompileInputs.cache
+C:\Users\bbayrakli\Desktop\CSharp\TORQUE\TORQUE_v2\obj\Debug\TORQUE_v2.exe
+C:\Users\bbayrakli\Desktop\CSharp\TORQUE\TORQUE_v2\obj\Debug\TORQUE_v2.pdb
